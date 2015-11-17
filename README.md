@@ -1,2 +1,1 @@
-# site
-Dota 2 Modding Community
+Extends [Site Feedback](https://moddota.com/forums/discussion/97/site-feedback)
